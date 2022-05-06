@@ -17,6 +17,7 @@ import { Product } from '../../components';
 import { useStateContext } from '../../context/StateContext';
 
 // Start command: npm run dev (inside 'ecommerce' folder)
+// Deployed Sanity Studio: https://ecommerce-ans.sanity.studio/desk
 
 const ProductDetails = ({ product, products }) => {
   // Destructure the values from the product
